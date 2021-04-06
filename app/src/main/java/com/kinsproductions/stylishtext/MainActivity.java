@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         tab();
 
     }
+// good good
 
     public void tab(){
         ViewPager viewPager = findViewById(R.id.viewPager);
